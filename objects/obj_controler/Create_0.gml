@@ -1,0 +1,10 @@
+MH = 60;
+FH = 60;
+coldown = 15;
+sleep = 0;
+sec = 0;
+coldownD = 2;
+food_time = 20;
+monster_ = 20;
+dead = false;
+my_fx1 = fx_create("_filter_greyscale");

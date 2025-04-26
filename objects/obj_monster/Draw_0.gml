@@ -1,0 +1,14 @@
+draw_self();
+draw_healthbar(
+x-(sprite_width/2),
+y-sprite_height,
+x+(sprite_width/2),
+y-sprite_height+5,
+H*20,
+c_black,
+c_red,
+c_green,
+0,
+true,
+false
+)
